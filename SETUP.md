@@ -59,6 +59,7 @@ Jupyter
 
 #### Setup fira code font
 [OS Instructions · tonsky/FiraCode Wiki · GitHub](https://github.com/tonsky/FiraCode/wiki/Installing#macos)
+
 [VS Code Instructions · tonsky/FiraCode Wiki · GitHub](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
 
 #### General
@@ -72,6 +73,7 @@ files.trimTrailingWhitespace -> true
 
 ## SSH key + github.com
 [Generating a new SSH key and adding it to the ssh-agent - GitHub Docs](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
 [Adding a new SSH key to your GitHub account - GitHub Docs](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 ## More Mac related setup
